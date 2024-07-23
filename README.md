@@ -19,5 +19,6 @@ O objetivo deste projeto é criar uma rede eficiente e segura para o CTISM, abor
 ### Estrutura do Projeto
 - **/scripts**: Scripts desenvolvidos para automação e gerenciamento da rede.
 - **/docs**: Documentação detalhada do projeto, incluindo diagramas e explicações técnicas.
+- **/cenario**: Cenário .xml utilizado no CORE.
 
 ---
