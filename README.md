@@ -17,7 +17,6 @@ Este repositório contém o trabalho final desenvolvido para a disciplina de Pro
 O objetivo deste projeto é criar uma rede eficiente e segura para o CTISM, abordando desde o planejamento inicial até a implementação de medidas de segurança e testes de validação.
 
 ### Estrutura do Projeto
-- **/configs**: Arquivos de configuração dos servidores e roteadores.
 - **/scripts**: Scripts desenvolvidos para automação e gerenciamento da rede.
 - **/docs**: Documentação detalhada do projeto, incluindo diagramas e explicações técnicas.
 
